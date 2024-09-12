@@ -50,7 +50,21 @@ In this project, we will leverage the CRISP-DM framework to guide our analysis a
 </p>
 
 ## Key Highlights
-##### Will be added later
+*   **Model Selection**: Evaluated and selected ARIMA, SARIMA, and Prophet models based on their suitability for capturing trends, seasonality, and irregular patterns in stock price data.
+*   **Parameter Optimization**: Conducted hyperparameter tuning for ARIMA and SARIMA models using techniques like grid search, leading to improved forecasting accuracy.
+*   **Seasonality Detection**: Identified seasonal patterns in stock prices through SARIMA, demonstrating the model's ability to account for periodic fluctuations.
+*   **Forecast Horizon**: Generated forecasts over various time horizons (short-term vs. long-term), providing valuable insights for different investment strategies.
+*   **Residual Analysis**: Performed residual analysis to check for autocorrelation and normality, ensuring that model assumptions were satisfied and enhancing the reliability of forecasts.
+*   **Prophet's Flexibility**: Leveraged Prophet's ability to incorporate holiday effects and custom seasonality, leading to improved forecasts during critical market events.
+*   **Error Metrics Interpretation**: Analyzed MSE, RMSE, and R² scores to quantify model performance, providing a clear understanding of prediction accuracy and model reliability.
+*   **Impact of External Factors**: Explored the influence of external factors (e.g., economic indicators, market sentiment) on stock price movements, enhancing the context of your forecasts.
+*   **Actionable Insights**: Delivered actionable insights based on forecast results, aiding stakeholders in making informed investment decisions and risk management strategies.
 
 ## Next Steps and Recommendations
-##### Will be added later
+*   Conduct further validation of the models using additional datasets to ensure robustness and generalizability of the forecasts.
+*   Explore advanced techniques such as ensemble methods to combine predictions from multiple models for improved accuracy.
+*   Develop a dashboard for visualizing forecasts, actual prices, and error metrics, providing stakeholders with an interactive tool for decision-making.
+*   Plan for regular updates of the machine learning models with new data to maintain accuracy and relevance in a dynamic market environment.
+*   Investigate the integration of deep learning algorithms (e.g., LSTM, XGBoost) to enhance forecasting capabilities and capture complex patterns in the data.
+*   Document the entire machine learning modeling process, including methodologies, parameter choices, and insights gained, facilitating knowledge sharing and future reference.
+*   Plan for regular updates of the machine learning models with new data to maintain accuracy and relevance in a dynamic market environment.
