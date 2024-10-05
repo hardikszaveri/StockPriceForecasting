@@ -23,7 +23,7 @@ Identify Key Factors: Analyze and identify the key factors and market indicators
 
 Enhance Prediction Accuracy: Achieve a prediction accuracy of at least X% (define a specific percentage based on your goals) using metrics such as Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE).
 
-Evaluate Techniques: Explore various modeling techniques (e.g., ARIMA, LSTM, regression analysis) to determine the most effective approach for stock price prediction.
+Evaluate Techniques: Explore various modeling techniques (e.g., ARIMA, SARIMA, Prophet, LSTM) to determine the most effective approach for stock price prediction.
 
 Provide Actionable Insights: Deliver actionable insights to stakeholders based on model predictions, enabling informed investment decisions and strategy development.
 
