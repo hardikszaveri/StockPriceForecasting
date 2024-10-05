@@ -59,12 +59,13 @@ In this project, we will leverage the CRISP-DM framework to guide our analysis a
 *   **Error Metrics Interpretation**: Analyzed MSE, RMSE, and R² scores to quantify model performance, providing a clear understanding of prediction accuracy and model reliability.
 *   **Impact of External Factors**: Explored the influence of external factors (e.g., economic indicators, market sentiment) on stock price movements, enhancing the context of your forecasts.
 *   **Actionable Insights**: Delivered actionable insights based on forecast results, aiding stakeholders in making informed investment decisions and risk management strategies.
+*   **Best Model**: LSTM is best performing model among all four models.
 
 ## Next Steps and Recommendations
 *   Conduct further validation of the models using additional datasets to ensure robustness and generalizability of the forecasts.
 *   Explore advanced techniques such as ensemble methods to combine predictions from multiple models for improved accuracy.
 *   Develop a dashboard for visualizing forecasts, actual prices, and error metrics, providing stakeholders with an interactive tool for decision-making.
 *   Plan for regular updates of the machine learning models with new data to maintain accuracy and relevance in a dynamic market environment.
-*   Investigate the integration of deep learning algorithms (e.g., LSTM, XGBoost) to enhance forecasting capabilities and capture complex patterns in the data.
+*   Investigate the integration of deep learning algorithms (e.g., LSTM, GRU, CNN etc.) to enhance forecasting capabilities and capture complex patterns in the data.
 *   Document the entire machine learning modeling process, including methodologies, parameter choices, and insights gained, facilitating knowledge sharing and future reference.
 *   Plan for regular updates of the machine learning models with new data to maintain accuracy and relevance in a dynamic market environment.
