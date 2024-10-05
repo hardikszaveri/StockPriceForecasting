@@ -69,3 +69,10 @@ In this project, we will leverage the CRISP-DM framework to guide our analysis a
 *   Investigate the integration of deep learning algorithms (e.g., LSTM, GRU, CNN etc.) to enhance forecasting capabilities and capture complex patterns in the data.
 *   Document the entire machine learning modeling process, including methodologies, parameter choices, and insights gained, facilitating knowledge sharing and future reference.
 *   Plan for regular updates of the machine learning models with new data to maintain accuracy and relevance in a dynamic market environment.
+
+## Charts and Visualizations
+### HeatMap
+<img src="images/HeatMap.png" alt="Heatmap" width="400"/>
+
+### Actual vs. Predicted Prices
+<img src="images/LSTM_Actual_Vs_Predicted.png" alt="Actual Vs Predicted Prices" width="400"/>
