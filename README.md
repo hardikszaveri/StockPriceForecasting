@@ -12,6 +12,7 @@ Our goal is to explore these key metrics to identify patterns and trends that ca
 ## <h3>Repo Structure</h3>
 * The stock_price_forecasting.ipynb file contains python code related to this application.
 * The data folder has prices.csv file that contains sample data used in this application.
+* The images folder contains some of the plots generated in this application.
 
 ## <h3>Business Objective</h3>
 <p>
